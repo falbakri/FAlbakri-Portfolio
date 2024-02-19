@@ -1,0 +1,57 @@
+h2{
+    font-weight: bold;
+}
+p{
+    font-style: italic;
+}
+header{
+    background-image: url(IMG_2580.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    min-height: 180px;
+    font-weight: bold;
+    font-size: large;
+
+}
+.aboutme{
+    color: teal;
+    padding-top: 40px;
+    padding-bottom: 15px;
+}
+.guage{
+    padding-top: 40px;
+}
+.container {
+    padding: 20px;
+    
+}
+.col-5{
+    border: solid black;
+}
+
+.titlename{
+    color: white
+}
+
+.background{
+    background-image: linear-gradient(to right, purple, green, gold);
+    color: white;
+}
+
+.bg{
+    background-image: url(testim.jpg);
+    background-size:cover;
+}
+
+.avatar{
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.codebground{
+    background-image: url(code.jpg);
+    background-size: cover;
+}
