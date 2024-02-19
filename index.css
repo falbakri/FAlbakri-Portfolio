@@ -19,9 +19,7 @@ header{
     padding-top: 40px;
     padding-bottom: 15px;
 }
-.guage{
-    padding-top: 40px;
-}
+
 .container {
     padding: 20px;
     
@@ -54,4 +52,14 @@ header{
 .codebground{
     background-image: url(code.jpg);
     background-size: cover;
+}
+
+.funfact-strong{
+    font-size: 35px;
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+
+.name{
+    font-size: 35px;
 }
